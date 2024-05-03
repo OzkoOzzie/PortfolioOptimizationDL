@@ -6,8 +6,8 @@ Team: Ahmet Ozkan Demir, Amey Kaloti, Kwok Wai Ma
 1. Overview
 The goal of portfolio optimization is to select the best asset distribution among different financial products based on certain objectives. These objectives usually include maximizing the expected return, minimizing volatility, and/ or achieving a certain return rate in a fixed time window.
 
-• Stakeholders: Investment firms, finance companies, investors
-• KPI: Maximizing cumulative return and Sharpe ratio of the portfolio
+      1. Stakeholders: Investment firms, finance companies, investors
+      2. KPI: Maximizing cumulative return and Sharpe ratio of the portfolio
 
 
 3. Data Collection
