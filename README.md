@@ -27,3 +27,7 @@ We used three different the models to perform the task. The first one is a custo
    1. Some stocks may perform well during the training and validation period but need to perform well during the testing period. This causes network to learn to weight these stocks heavily        in the training period and causes a lag on the portfolio.
    2. Requires skillful tuning of hyperparameters to get the best portfolio.
    3. Considering efficiency of markets, extra data such as sentiment for a stock, as well as fundamental data may lead to better performance of the portfolio. One can add this as channel         information in DeepDow to get a better model.
+
+References:
+
+Krepl, J. (2020). DeepDow: Portfolio optimization with deep learning (v0.2.0). Zenodo. https://doi.org/10.5281/zenodo.3906121
